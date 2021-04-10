@@ -40,6 +40,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 Yo
 
+<!DOCTYPE html>
 <html>
 <body>
 
